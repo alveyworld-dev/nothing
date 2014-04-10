@@ -10,3 +10,14 @@ img {
 a {
 	color:black;
 }
+#feed ul {
+
+}
+#feed li {
+	display: inline;
+	list-style: none;
+}
+iframe {
+	display: inline;
+	border: 3px solid red;
+}

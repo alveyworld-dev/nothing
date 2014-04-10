@@ -2,12 +2,12 @@ body{
 	font-family:"Lucida Grande", arial, sans-serif;
 }
 
-ul{
+#menu ul{
 	margin:0;
 	padding:0;
 }
 
-li{
+#menu li{
 	width:100px;
 	height:50px;
 	float:left;
