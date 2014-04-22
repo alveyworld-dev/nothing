@@ -1,0 +1,23 @@
+body {
+	background-image: url("resources/bitdance.gif");
+}
+h1 {
+	color: red;
+}
+img {
+	border: 3px solid red;
+}
+a {
+	color:black;
+}
+#feed ul {
+	
+}
+#feed li {
+	display: inline;
+	list-style: none;
+}
+iframe {
+	display: inline;
+	border: 3px solid red;
+}
